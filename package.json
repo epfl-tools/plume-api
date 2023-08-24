@@ -1,0 +1,16 @@
+{
+  "name": "plume-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:epfl-tools/plume-api.git",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.21.0",
+    "jsdom": "^22.1.0"
+  }
+}
